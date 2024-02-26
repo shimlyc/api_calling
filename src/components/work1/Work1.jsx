@@ -1,4 +1,4 @@
-import "./work1.css"
+import "./Work1.css"
 
 function Work1() {
   return (
